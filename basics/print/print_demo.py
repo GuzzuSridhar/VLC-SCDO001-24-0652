@@ -19,5 +19,11 @@ print(age)
 
 # using the + operator
 print(name + " " + str(age))
-#  simpler way of pythons concat
-print(name,age)
+#  simpler way of pythons concat (default seperator is space)
+print(name,age) 
+
+#  seperate the values with a custom seperator
+print(name,age, sep="|") 
+print(name,age, sep=" - ") 
+print(name,age, sep="-") 
+
