@@ -1,0 +1,19 @@
+Camel Case
+In camel case, you start a name with a small letter. If the name has multiple words, the later words will start with a capital letter:
+Here are some examples of camel case: firstName and lastName.
+
+Kebab Case
+Kebab case is similar to snake case, but you use a hyphen (-) instead of an underscore (_) to separate the words.
+Here are some examples of kebab case: first-name and last-name.
+
+Pascal Case
+Unlike the previous examples, names in pascal case start with a capital letter. In case of the names with multiple words, all words will start with capital letters.
+Here are some examples of pascal case: FirstName and LastName.
+
+Snake Case
+Like in camel case, you start the name with a small letter in snake case. If the name has multiple words, the later words will start with small letters and you use a underscore (_) to separate the words.
+Here are some examples of snake case: first_name and last_name.
+
+Screaming Snake case
+SCREAMING_SNAKE_CASE is a variable naming convention where each word is in upper case, and separated by underscores. It is also known as MACRO_CASE or CONSTANT_CASE. Examples: FIRST_NAME, TOTAL_SCORE, SNAKE_PAIN_THRESHOLD. Commonly used in: Naming constants in things like C, Javascript, and Java.
+From snake case, with the "screaming" part derived from the use of capital letters which typically denote yelling in text.
