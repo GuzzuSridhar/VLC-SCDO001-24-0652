@@ -16,3 +16,8 @@ print(age)
 # default functionality
 print(name, end="\n")
 print(age)
+
+# using the + operator
+print(name + " " + str(age))
+#  simpler way of pythons concat
+print(name,age)
