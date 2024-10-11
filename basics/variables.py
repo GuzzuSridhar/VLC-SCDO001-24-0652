@@ -1,7 +1,6 @@
 # comments in python
 
 # variable to store Strings (text)
-import dis
 
 
 name = "James Bond"
@@ -23,3 +22,10 @@ distance = 4.2
 
 print(price)
 print(distance)
+
+# variable for the boolean types (True or False)
+is_valid = True
+is_loggedin = False
+
+print(is_valid)
+print(is_loggedin)
