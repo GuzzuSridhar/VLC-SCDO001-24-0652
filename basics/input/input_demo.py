@@ -17,3 +17,9 @@ print(type(age))
 print("You will be ", age+1 , "years, next year" )
 # print("You will be ", int(age)+1 , "years, next year" )
 
+# accept multiple values
+numbers = input("Enter 2 numbers with a space: ").split()
+print(type(numbers))
+print(int(numbers[0]))
+print(int(numbers[1]))
+
