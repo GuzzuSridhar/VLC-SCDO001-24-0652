@@ -1,0 +1,33 @@
+1. Personal Information Formatter
+Prompt the user for their first name, last name, age, and favorite color.
+Print a formatted sentence, like: "Hello, [first name] [last name]! You are [age] years old, and your favorite color is [color]."
+
+2. Simple Math Operations
+Ask the user for two numbers and store them as integers.
+Perform and print the results for addition, subtraction, multiplication, and division of these numbers.
+Display the results with descriptive messages, e.g., "The sum is: [result]."
+
+3. String Manipulation
+Prompt the user to enter a word.
+Print the word in uppercase, lowercase, and the number of characters in it.
+Also, print the first and last character of the word.
+
+4. Area and Perimeter Calculator
+Ask the user for the length and width of a rectangle.
+Calculate and print the area (length × width) and the perimeter (2 × (length + width)).
+
+5. Birthday Year Calculator
+Ask the user for their current age.
+Calculate and print the year they were born based on the current year (use a fixed year, like 2024, for simplicity).
+
+6. Distance Converter
+Prompt the user for a distance in kilometers.
+Convert it to miles (1 km ≈ 0.621371 miles) and display the result.
+
+7. Grocery Bill
+Ask the user for prices of three grocery items.
+Calculate the total and average cost of these items.
+Print the results with a formatted message.
+
+
+
