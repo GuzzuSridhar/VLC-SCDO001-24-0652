@@ -56,7 +56,52 @@ print(f"{age.isdigit() = }")
 test = "abcefg77!!"
 print(f"{test.isalnum() = }")
 
+# center
+test = "Hello"
+print(test.center(50))
+print(test.center(20))
 
+# character index in a string
+test = "Hello"
+# to access a specific character using the index
+# the first character
+print(test[0])
+print(test[1])
+print(test[2])
+print(test[3])
+print(test[4])
+
+# using negative index
+print(test[-1])
+print(test[-2])
+print(test[-3])
+print(test[-4])
+print(test[-5])
+
+# using sep
+print(test[0], test[1],test[2],test[3],test[4], sep="")
+
+# using end
+print(test[0], end="")
+print(test[1], end="")
+print(test[2],end="")
+print(test[3],end="")
+print(test[4])
+
+# string methods with index
+# find returns the index of the search text
+# when no match return -1
+test = "Hello World"
+print(f"{test.find("Hello") = }") 
+print(f"{test.find("World") = }") 
+print(f"{test.find("world") = }") 
+print(f"{test.lower().find("world") = }") 
+
+# index returns the index of the search text 
+# when no match return a Value error
+print(f"{test.index("Hello") = }") 
+print(f"{test.index("World") = }") 
+print(f"{test.index("world") = }") 
 
 
 
