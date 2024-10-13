@@ -1,5 +1,6 @@
 # number methods
 import math
+import random
 # abs
 # ensures that the output is always positive
 print(f"{abs(-7) = }")
@@ -34,3 +35,14 @@ print(math.ceil(4.9))     # Output: 5
 # Rounds a number down to the nearest integer (always down).
 print(math.floor(4.1))    # Output: 4
 print(math.floor(4.9))    # Output: 4
+
+# random number
+# random int  between 0 and 1
+print(f"{random.random() = }")
+# random float
+print(f"{random.uniform(1.3,4.5) = } ")
+# random int
+print(f"{random.randint(1,100) = }")
+
+
+
