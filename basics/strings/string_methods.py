@@ -101,7 +101,11 @@ print(f"{test.lower().find("world") = }")
 # when no match return a Value error
 print(f"{test.index("Hello") = }") 
 print(f"{test.index("World") = }") 
-print(f"{test.index("world") = }") 
+# print(f"{test.index("world") = }") 
+
+# replace
+msg = test.replace("Hello", "Bye")
+print(msg)
 
 
 
