@@ -21,6 +21,12 @@
 # F     T	T
 # F	    F	F
 
+# Not	
+# condition	result
+# T	        F
+# F	        T
+
+
 
 
 c1 = True
