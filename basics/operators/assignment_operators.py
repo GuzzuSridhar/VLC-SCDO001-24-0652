@@ -17,7 +17,7 @@ name = "Alex"
 price = 99.7
 is_valid = True
 
-# plus operator
+#-------------------- plus equals operator------------------------------
 count = 10
 # add one to count (11)
 count += 1 
@@ -31,3 +31,35 @@ msg = "Hello! "
 # using the += on strings
 msg += "Alex"
 print(msg)
+
+#-------------------- minus equals operator------------------------------
+# can be applied only to numbers
+count -= 1
+print(count)
+count -= 5
+print(count)
+
+#-------------------- product equals operator------------------------------
+# can be applied only to numbers
+count *= 10
+print(f"{count = }")
+
+#-------------------- division equals operator------------------------------
+# can be applied only to numbers
+# will return the quotient after the division
+print(type(count))
+count /= 10 
+# converts the int type to float after division operation
+print(f"{count = }")
+print(type(count))
+
+#-------------------- modulus equals operator------------------------------
+# can be applied only to numbers
+# will return the reminder after division
+x = 5
+x %= 2
+print(x)
+
+
+
+
