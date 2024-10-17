@@ -46,8 +46,35 @@ print(str1 > str2)
 print(x > y)
 print(y > x)
 
+# ------------greater than equals operator------------------
+# can be used with  numbers and strings
+# compare lexicographically
+str1 = "ABC"
+str2 = "DEF"
+print(str1 >= str2)
 
+print(x >= y)
+print(y >= x)
 
+# ------------Lesser than  operator------------------
+# can be used with  numbers and strings
+# compare lexicographically
+str1 = "ABC"
+str2 = "DEF"
+print(str1 < str2)
+
+print(x < y)
+print(y < x)
+
+# ------------lesser than equals operator------------------
+# can be used with  numbers and strings
+# compare lexicographically
+str1 = "ABC"
+str2 = "DEF"
+print(str1 <= str2)
+
+print(x <= y)
+print(y <= x)
 
 
 
