@@ -1,6 +1,7 @@
 # conditionally executing statements
 # using the if statement
 # indententation levels are important
+#  when standalone if statements are written all the statements are executed
 
 # season = "winter"
 season = input("Enter the season: ")
