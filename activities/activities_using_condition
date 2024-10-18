@@ -64,3 +64,7 @@
 ### Exercise 10: Age check
 * write a program that accepts the users age 
 * verify if he/she is eligible to vote (age above 18 is eligible for voting)
+
+### Exercise 11: Divisibility
+* accept 2 numbers from user
+* check if the first number is exactly divisible by the second
