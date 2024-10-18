@@ -4,13 +4,17 @@
 
 season = input("Enter the season: ")
 
-if season == "winter":
+if season.casefold() == "winter":
+    print(f"Welcome to {season}")
     print("wear woolen clothes")
     print("stay indoors")
-elif season == "summer":
+elif season.casefold() == "summer":
+    print(f"Welcome to {season}")
     print("wear cotton clothes")
     print("use air conditioner")
-elif season == "rainy":
+elif season.casefold() == "rainy":
+    print(f"Welcome to {season}")
     print("carry umbrella")
 else:
     print("Invalid Season")
+
