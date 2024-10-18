@@ -1,0 +1,12 @@
+Immutable Objects in Python:
+------------------------------------------
+Numbers: Integers, floating-point numbers, complex numbers
+Strings
+Tuples
+Frozen sets
+
+Mutable Objects in Python:
+------------------------------------------
+Lists
+Dictionaries
+Sets
