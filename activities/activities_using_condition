@@ -1,0 +1,66 @@
+## Python Exercise Questions
+
+### Exercise 1: Grade Calculator
+* Write a Python program to calculate a student's grade based on their score.
+* The grading scale is as follows:
+  * 90-100: A
+  * 80-89: B
+  * 70-79: C
+  * 60-69: D
+  * Below 60: F
+* Prompt the user to enter their score and print the corresponding grade.
+
+### Exercise 2: Leap Year Checker
+* Write a Python program to determine whether a given year is a leap year.
+* A year is a leap year if it is divisible by 4, but not divisible by 100, or if it is divisible by 400.
+* Prompt the user to enter a year and print whether it's a leap year or not. 
+
+### Exercise 3: Vowel Checker
+* Write a Python program to check whether a given character is a vowel or a consonant.
+* Use a match-case statement to efficiently handle the vowel checking.
+* Prompt the user to enter a character and print whether it's a vowel or a consonant.
+
+### Exercise 4: Number Classification
+* Write a Python program to classify a number as positive, negative, zero, or one/negative one.
+* Use a match-case statement to handle different number classifications.
+* Prompt the user to enter a number and print its classification.
+
+### Exercise 5: Simple Calculator
+* Write a Python program to perform basic arithmetic operations (addition, subtraction, multiplication, and division).
+* Use a match-case statement to handle different operators.
+* Prompt the user to enter two numbers and an operator, and then perform the calculation.
+* Handle the case of division by zero.
+
+### Exercise 6: Password Strength Checker:
+* Write a program that takes a password as input and checks the strength based on length:
+* Less than 6 characters: Weak.
+* Between 6 and 10 characters: Medium.
+* More than 10 characters: Strong.
+
+### Exercise 7: Traffic Light Simulation:
+* Write a program that simulates a traffic light using a match expression. 
+* Ask the user to enter a color (Red, Yellow, or Green) 
+* print what they should do (e.g., "Stop", "Slow down", or "Go").
+
+### Exercise 8: Season Finder:
+* Create a program that takes a month (as an integer) from the user 
+* use a match expression to print the season (Winter, Spring, Summer, Autumn) based on the month.
+
+### Exercise 9: Mix of if and match
+* Write a program that asks the user to choose between a temperature unit (Celsius or Fahrenheit) using a match expression. 
+* Then, based on the unit * chosen, use if statements to determine whether the temperature is cold, moderate, or hot:
+* Celsius:
+-----------
+* Below 10°C: Cold
+* 10°C to 25°C: Moderate
+* Above 25°C: Hot
+
+* Fahrenheit:
+-----------
+* Below 50°F: Cold
+* 50°F to 77°F: Moderate
+* Above 77°F: Hot
+
+### Exercise 10: Age check
+* write a program that accepts the users age 
+* verify if he/she is eligible to vote (age above 18 is eligible for voting)
