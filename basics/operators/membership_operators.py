@@ -6,3 +6,4 @@
 # a string is a collection of characters
 test_str = "Hello World"
 print('a' in test_str)
+print('a' not in test_str)
