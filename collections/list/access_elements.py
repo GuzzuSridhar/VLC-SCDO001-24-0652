@@ -11,6 +11,7 @@ print(nums[1])
 print(nums[2])
 print(nums[3])
 print(nums[4])
+
 print("-----------Using negative index-------------")
 # access elements using negative index
 print(nums[-1])
