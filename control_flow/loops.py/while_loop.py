@@ -30,4 +30,11 @@ while str_idx < len(name):
     print(name[str_idx], end="")
     str_idx += 1
 
+print()
+
+# reverse of a string
+str_idx = len(name) -1
+while str_idx >= 0:
+    print(name[str_idx], end = "")
+    str_idx -= 1 
 
