@@ -3,8 +3,6 @@ print("-------------Original List--------------------")
 fruits = ['apple','banana']
 print(fruits, end= '\n\n')
 
-
-
 print("-------------Append List--------------------")
 # append list element
 fruits.append('orange')
