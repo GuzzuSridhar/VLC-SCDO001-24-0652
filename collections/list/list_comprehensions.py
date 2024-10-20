@@ -2,9 +2,11 @@
 # syntax
 #  [expression for item in iterable if condition]
 
+# fill the list with a sequence
 nums = [i for i in range(10)]
 print(nums)
 
+# populate a list with squared numbers
 squares = [x**2 for x in range(1,6)]
 print(squares)
 
