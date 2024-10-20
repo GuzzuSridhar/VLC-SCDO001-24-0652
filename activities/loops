@@ -1,99 +1,94 @@
-Exercises using loops in Python:
----------------------------------------------
+# Exercises using loops in Python:
+# ---------------------------------------------
 
 ### 1. **Sum of Numbers**
-Write a Python program that asks the user to input a number `n` and then calculates the sum of all numbers from 1 to `n` using a loop.
+# Write a Python program that asks the user to input a number `n` and then calculates the sum of all numbers from 1 to `n` using a loop.
 
 
 ### 2. **Factorial Calculation**
-Write a program that calculates the factorial of a given number using a loop.
+# Write a program that calculates the factorial of a given number using a loop.
 
 
 ### 3. **Fibonacci Sequence**
-Create a Python program that prints the first `n` numbers of the Fibonacci sequence, where `n` is input by the user.
+# Create a Python program that prints the first `n` numbers of the Fibonacci sequence, where `n` is input by the user.
 
 
 ### 4. **Multiplication Table**
-Write a program that prints the multiplication table for a given number using a loop.
+# Write a program that prints the multiplication table for a given number using a loop.
 
 
 ### 5. **Check Prime Number**
-Write a Python program that checks whether a number entered by the user is a prime number using a loop.
+# Write a Python program that checks whether a number entered by the user is a prime number using a loop.
 
 
 ### 6. **Reverse a String**
-Write a Python program that takes a string as input and prints the string in reverse using a loop.
+# Write a Python program that takes a string as input and prints the string in reverse using a loop.
 
 
 ### 7. **Count Vowels**
-Write a Python program that counts the number of vowels in a given string using a loop.
+# Write a Python program that counts the number of vowels in a given string using a loop.
 
 
 ### 8. **Print a Pattern**
-Write a program that prints the following pattern using nested loops:
-```
-*
-**
-***
-****
-*****
-```
+# Write a program that prints the following pattern using nested loops:
+
+# *
+# **
+# ***
+# ****
+# *****
 
 
 ### 9. **Sum of Even Numbers**
-Write a Python program to calculate the sum of all even numbers between 1 and `n` using a loop.
+# Write a Python program to calculate the sum of all even numbers between 1 and `n` using a loop.
 
 
 ### 10. **Number of Digits**
-Write a Python program to count the number of digits in an integer entered by the user.
+# Write a Python program to count the number of digits in an integer entered by the user.
 
 
 ### 11. **Find the Largest Number**
-Write a Python program that takes `n` numbers as input and finds the largest number among them using a loop.
+# Write a Python program that takes `n` numbers as input and finds the largest number among them using a loop.
 
 
 ### 12. **Guess the Number**
-Create a number guessing game where the user has to guess a number between 1 and 100. Use a loop to keep asking the user until they guess correctly.
+# Create a number guessing game where the user has to guess a number between 1 and 100. Use a loop to keep asking the user until they guess correctly.
 
 
 ### 13. **Palindromic Number**
-Write a Python program that checks whether a given number is a palindrome (same when read forwards and backwards) using a loop.
+# Write a Python program that checks whether a given number is a palindrome (same when read forwards and backwards) using a loop.
 
 ### 14. **Sum of Digits**
-Write a Python program that calculates the sum of the digits of a given integer using a loop.
+# Write a Python program that calculates the sum of the digits of a given integer using a loop.
 
 
 ### 15. **Find the GCD**
-Write a Python program to find the greatest common divisor (GCD) of two numbers using a loop.
+# Write a Python program to find the greatest common divisor (GCD) of two numbers using a loop.
 
 
 ### 16. **Find the LCM**
-Write a Python program that calculates the least common multiple (LCM) of two numbers using a loop.
+# Write a Python program that calculates the least common multiple (LCM) of two numbers using a loop.
 
 
 ### 17. **Pattern of Numbers**
-Write a Python program to print the following number pattern using nested loops:
-```
-1
-12
-123
-1234
-12345
-```
+# Write a Python program to print the following number pattern using nested loops:
+# 1
+# 12
+# 123
+# 1234
+# 12345
 
 
 ### 18. **Remove Duplicates from a List**
-Write a Python program that removes all duplicates from a list using a loop.
+# Write a Python program that removes all duplicates from a list using a loop.
 
 
 ### 19. **Sum of Series**
-Write a Python program that calculates the sum of the following series up to `n` terms using a loop:
-```
-S = 1 + 1/2 + 1/3 + ... + 1/n
-```
+# Write a Python program that calculates the sum of the following series up to `n` terms using a loop:
+# S = 1 + 1/2 + 1/3 + ... + 1/n
 
 ### 20. **Find the Smallest Number**
-Write a Python program that takes `n` numbers as input and finds the smallest number among them using a loop.
+# Write a Python program that takes `n` numbers as input and finds the smallest number among them using a loop.
 
 
 
