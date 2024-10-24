@@ -11,6 +11,6 @@ def is_prime(n) -> bool:
 def xyz():
     pass
 
+print(is_prime(5))
+print(is_prime(4))
 
-# print(is_prime(5))
-# print(is_prime(4))
